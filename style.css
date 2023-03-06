@@ -3,6 +3,11 @@
     display: block;
 }
 .search-bar{
-    font-size: 20px;
-    margin-left: 12px;
+    display: block;
+}
+.video-preview{
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 16px;
 }
